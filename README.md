@@ -1,3 +1,2 @@
 # ejemplo-git
-### Fernando Agustin Cocco
-
+### Fernando Cocco
